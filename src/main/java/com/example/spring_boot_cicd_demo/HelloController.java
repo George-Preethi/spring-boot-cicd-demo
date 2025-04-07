@@ -10,5 +10,6 @@ public class HelloController {
     public String hello() {
         return "Hello from Spring Boot CI/CD Demo!";
         Printf("Hello");
+        Printf("Lets see");
     }
 }
