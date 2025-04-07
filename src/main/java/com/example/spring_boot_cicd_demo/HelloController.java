@@ -9,7 +9,6 @@ public class HelloController {
     @GetMapping("/hello")
     public String hello() {
         return "Hello from Spring Boot CI/CD Demo!";
-        Printf("Hello");
-        Printf("Lets see");
+        
     }
 }
